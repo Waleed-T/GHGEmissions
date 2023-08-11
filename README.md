@@ -1,2 +1,5 @@
 # GHGEmissions
 Greenhouse Gas Emissions for Nordic Countries: A Business Intelligence Study
+
+
+At the brink of global warming, nations all over the globe are concerned about the detrimental effects of greenhouse gas emissions and the role they play in the escalation of this warming effect. This paper attempts to shed light on the earlier research literature and use data mining techniques, like correlation analysis and clustering to show the diversification of greenhouse gases with respect to each gas and its contribution leading to the total emissions. In addition, it will also demonstrate the sector wise emissions. Consequently, this study shows that land usage and forestry has a negative correlation with almost all other sectors with respect to emissions. Moreover, some countries like Iceland shows a visibly downward emissions trend from the rest of the Nordic countries. Sweden on the other hand falls among the top contributors. In response to these emissions, nearly all the governments and private institutions are engaged in reconciliatory efforts to combat these emissions threats.
